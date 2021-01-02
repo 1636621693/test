@@ -1,3 +1,11 @@
+**/mvnw
+**/mvnw.cmd
+**/.mvn
+**/target/
+.idea/
+**/mvnw*
+**/.gitignore
+
 # Compiled class file
 *.class
 
